@@ -355,7 +355,7 @@ elif page == "👩‍💻 About Creator":
     st.markdown("""
         **Name:** Ameena Juhi  
         **Email:** ameenaju99@gmail.com  
-        **GitHub:** [My Github](https://github.com/your-username)
+        **GitHub:** [Ameena-Juhi-99](https://github.com/Ameena-Juhi-99/BankSight-Streamlit-App)
     """)
 
     st.markdown("""
@@ -363,4 +363,5 @@ elif page == "👩‍💻 About Creator":
                 
     *This Project shows an interactive banking dashboard to manage data with CRUD operations, simulate account transactions, and run key analytics using Python, SQLite, and Streamlit.*
     """)
+
     st.success("Thanks for using the BankSight Dashboard!")
